@@ -1,3 +1,6 @@
+[![Paper](http://img.shields.io/badge/paper-arxiv.2307.13511-B31B1B.svg)](https://arxiv.org/abs/2307.13511)
+
+
 # QNEE
 QNEE is algorithm for estimating quantum entropies using neural network and quantum circuit. See arXiv 2307.13511 (https://arxiv.org/abs/2307.13511).
 
