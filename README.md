@@ -1,7 +1,6 @@
 
 # QNEE
-QNEE is an algorithm for estimating quantum entropies using neural network and quantum circuit. See arXiv 2307.13511 (https://arxiv.org/abs/2307.13511). The data presented in the reference in notebooks/data/arXiv.
-
+QNEE is an algorithm for estimating quantum entropies using neural network and quantum circuit. 
 ## Requirement 
 
 Required libraries are written in requirements.txt.
