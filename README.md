@@ -1,5 +1,3 @@
-[![Paper](http://img.shields.io/badge/paper-arxiv.2307.13511-B31B1B.svg)](https://arxiv.org/abs/2307.13511)
-
 
 # QNEE
 QNEE is an algorithm for estimating quantum entropies using neural network and quantum circuit. See arXiv 2307.13511 (https://arxiv.org/abs/2307.13511). The data presented in the reference in notebooks/data/arXiv.
@@ -31,7 +29,4 @@ python -u VNestimator_train_strategy_three_XXZ_with_mk4circuit.py --n-shots 3000
   - With one A40 GPU card, it tooks 66 hours. Decrease circuit-repeats parameter for saving your time or use many GPUs.
 - After run the command line, training with exact cost function is executed. Then, the neural network and quantum circuit are initialized and training with cost function from quantum circuit's data based on will be executed!
 
-## Author
-
-Sangyun Lee, Hyukjoon Kwon and Jae Sung Lee
 
